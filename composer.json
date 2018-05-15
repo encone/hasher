@@ -1,0 +1,18 @@
+{
+    "name": "encone/hasher",
+    "description": "md5 package test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yangpei",
+            "email": "49089901@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Encone\\Hashers\\":"src/"
+        }
+    }
+}
